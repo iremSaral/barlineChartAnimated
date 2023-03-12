@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\C#101\Operators\bin\Debug\net7.0\Operators.exe
+C:\Users\asus\Desktop\C#101\Operators\bin\Debug\net7.0\Operators.deps.json
+C:\Users\asus\Desktop\C#101\Operators\bin\Debug\net7.0\Operators.runtimeconfig.json
+C:\Users\asus\Desktop\C#101\Operators\bin\Debug\net7.0\Operators.dll
+C:\Users\asus\Desktop\C#101\Operators\bin\Debug\net7.0\Operators.pdb
+C:\Users\asus\Desktop\C#101\Operators\obj\Debug\net7.0\Operators.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\C#101\Operators\obj\Debug\net7.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\C#101\Operators\obj\Debug\net7.0\Operators.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C#101\Operators\obj\Debug\net7.0\Operators.AssemblyInfo.cs
+C:\Users\asus\Desktop\C#101\Operators\obj\Debug\net7.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#101\Operators\obj\Debug\net7.0\Operators.dll
+C:\Users\asus\Desktop\C#101\Operators\obj\Debug\net7.0\refint\Operators.dll
+C:\Users\asus\Desktop\C#101\Operators\obj\Debug\net7.0\Operators.pdb
+C:\Users\asus\Desktop\C#101\Operators\obj\Debug\net7.0\Operators.genruntimeconfig.cache
+C:\Users\asus\Desktop\C#101\Operators\obj\Debug\net7.0\ref\Operators.dll
